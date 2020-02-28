@@ -12,7 +12,7 @@ How to play.
 	-The player then selects one of the three(Rock, Paper or Scissors);
 	-The computer chooses one of these too without any bias.
 	-The two selections are compared and the one that has chosen the 
-	 mightier one wins the game.
+	 mightier one wins the round.
 
 The game is played 10 rounds and whoever wins or loses can choose to restart the Game
 
