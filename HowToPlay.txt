@@ -1,0 +1,20 @@
+This is my first Java Game in the introdution to programminng.
+In this game you will battle head to head with the computer.
+
+Rules of the Game.
+-This game has only one simple rule.
+	Be the first to get 10 wins and you win the game.
+
+How to play.
+	-The player starts the game in which they are prompted to enter their name.
+	-This is so as the computer can be able to be referencing the the player
+	 by their real name.
+	-The player then selects one of the three(Rock, Paper or Scissors);
+	-The computer chooses one of these too without any bias.
+	-The two selections are compared and the one that has chosen the 
+	 mightier one wins the game.
+
+The game is played 10 rounds and whoever wins or loses can choose to restart the Game
+
+
+				...ENJOY...
